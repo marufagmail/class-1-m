@@ -1,0 +1,19 @@
+.{
+    margin: 0
+    padding:0;
+}
+
+body{
+    margin: 0 auto;
+}
+.name{background-color: bisque;
+font-size:larger ;
+font-style: inherit;
+forced-color: yello;
+}
+# about-the-principal{
+    display: flex;
+}
+.about-the-principal-text-area{
+    margin: left 40px; 
+}
